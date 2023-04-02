@@ -37,7 +37,7 @@ class Product {
         this.title = title,
         this.description = description,
         this.price = price,
-        this. thumbnail = thumbnail,
+        this.thumbnail = thumbnail,
         this.code = code,
         this.stock = stock
     }
