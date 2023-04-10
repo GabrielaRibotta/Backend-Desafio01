@@ -1,0 +1,1 @@
+[{"title":"Lord of the Rings","description":"Paperback","price":7000,"thumbnail":"No Image","code":"fn01","stock":10,"id":1},{"title":"Before the Coffee Gets Cold","description":"Paperback","price":3250,"thumbnail":"No Image","code":"fn02","stock":20,"id":2},{"title":"The Wizard of Oz","description":"Paperback","price":7500,"thumbnail":"No Image","code":"fn03","stock":20,"id":3}]
